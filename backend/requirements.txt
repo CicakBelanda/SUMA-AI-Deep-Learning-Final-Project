@@ -1,0 +1,13 @@
+numpy<2
+transformers==4.46.1
+torch==2.2.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn[standard]
+python-multipart
+readability-lxml
+beautifulsoup4
+requests
+pydantic
+lxml
+openai-whisper
